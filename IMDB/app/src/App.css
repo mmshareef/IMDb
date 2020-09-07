@@ -1,0 +1,82 @@
+body {
+  background-color: black;
+}
+.img{
+  height: 550px;
+  padding-top: 70px;
+}
+.image{
+  height: 300px;
+  margin-top: 50px;
+}
+.inpic{
+  margin-bottom: 50px;
+  width: 70px;
+  height:100px;
+}
+.pic{
+  height: 700px;
+  padding-top: 30px;
+}
+.picture{
+  height:300px;
+  padding-top: 30px;
+}
+.decorate{
+  color: rgb(218, 218, 7);
+}
+.decoration{
+  color: rgb(161, 161, 7);
+}
+.settle{
+  margin-right: 320px !important;
+  width:300px;
+  height:350px;
+}
+.setimage{
+  height: 150px;
+  width:80px;
+  margin:5px;
+}
+.column{
+  padding-top: 80px;
+}
+.set{
+  margin-left: 380px;
+  width:380px !important;
+  height:350px;
+}
+.mid{
+  margin-left:700px !important;
+  margin-top: 50px !important;
+  width: 23%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin:20px;
+  text-align: center;
+  padding: 20px;
+ 
+}
+.box {
+color: white;
+padding: 10px;
+text-align: center;
+}
+.sett{
+  margin-top: 500px !important;
+  height:400px;
+}
+.com{
+  width: 250px;
+  height:300px;
+  margin-left:150px;
+}
+.top{
+  margin-top:50px;
+}
+.side{
+  margin-left: 50px;
+}
+.rightside{
+  margin-right: 20px;
+}
